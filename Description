@@ -1,0 +1,33 @@
+
+# Amazon Clone
+
+This repository contains a clone of the Amazon website created using HTML and CSS.
+
+## Features
+
+- Responsive design
+- Navigation bar
+- Product listings
+- Footer section
+
+## Technologies Used
+
+- HTML
+- CSS
+
+## Getting Started
+
+To view the project, simply open the `index.html` file in your web browser.
+
+## Contributing
+
+Feel free to submit issues and pull requests.
+
+## License
+
+This project is licensed under the MIT License.
+Steps to Create or Edit README.md
+Clone the repository locally:
+
+
+By following these steps, you can add a description to your GitHub repository and provide detailed information in a README.md file
